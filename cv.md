@@ -4,6 +4,11 @@ title: CV
 permalink: /cv
 ---
 
+Data engineer with strong analytical skills, predisposition for practical problem solving and focus on business needs.
+Always keen to learn new things and not afraid to deep dive into complex problems.
+Experienced programming skills in several languages as well as object oriented and functional programming.
+Very strong technological background, sense for software innovation and digital media affinity.
+
 ## Work Experience
 
 ### Data Engineer -- Wooga GmbH
