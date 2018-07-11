@@ -11,6 +11,11 @@ Very strong technological background, sense for software innovation and digital 
 
 ## Experience
 
+### Sabbatical
+*January 2018 -- June 2018*
+
+Travelling through Asia, Central and North America on a long break and gaining valuable life experiences.
+
 ### Data Engineer -- Wooga GmbH
 *May 2015 -- December 2017*
 
